@@ -1,4 +1,4 @@
-# 🧾 Customer Registration API - Distinct Infotech Task
+# 🧾 Customer Registration API - Task
 
 This project is a simple RESTful API built with **FastAPI** for registering customer details, as part of the Software Engineer task for Distinct Infotech. It handles **Personal** and **Employment** information with full **CRUD operations** and **Swagger UI documentation**.
 
